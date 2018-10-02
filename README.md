@@ -6,3 +6,4 @@
 
 [3] Curriculum Learning for Natural Answer Generation
 
+[4] Extracting Relational Facts by an End-to-End Neural Model with Copy Mechanism
