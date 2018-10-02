@@ -9,3 +9,6 @@
 [4] Extracting Relational Facts by an End-to-End Neural Model with Copy Mechanism
 
 [5] Generating Natural Answers by Incorporating Copying and Retrieving Mechanisms in Sequence-to-Sequence Learning
+
+[6] Close to Human Quality TTS with Transformer
+
