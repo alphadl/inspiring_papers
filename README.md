@@ -16,4 +16,5 @@
 
 [7-appendix] poster of paper7
 
+[8] Unsupervised Cross-lingual Transfer of Word Embedding Spaces
 
