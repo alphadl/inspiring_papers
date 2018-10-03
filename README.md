@@ -20,3 +20,5 @@
 
 [9] Commonsense Knowledge Base Completion
 
+[10] ConceptNet 5.5: An Open Multilingual Graph of General Knowledge
+
