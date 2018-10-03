@@ -12,3 +12,8 @@
 
 [6] Close to Human Quality TTS with Transformer
 
+[7] Cross-lingual Knowledge Projection Using Machine Translation and Target-side Knowledge Base Completion
+
+[7-appendix] poster of paper7
+
+
