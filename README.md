@@ -22,3 +22,5 @@
 
 [10] ConceptNet 5.5: An Open Multilingual Graph of General Knowledge
 
+[11] Adversarial learning meets graphs
+
