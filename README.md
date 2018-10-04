@@ -1,4 +1,4 @@
-# papers_about_mt
+# papers_about_mt and other inspired papers
 
 [1] attention is all you need
 
