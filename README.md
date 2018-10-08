@@ -34,3 +34,6 @@
 
 [16] Commonsense Knowledge Base Completion
 
+[17] Unsupervised Cross-lingual Transfer of Word Embedding Spaces
+
+
