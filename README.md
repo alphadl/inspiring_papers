@@ -28,3 +28,5 @@
 
 [13] Neural Machine Translation and Sequence-to-sequence Models: A Tutorial
 
+[14] Google’s Multilingual Neural Machine Translation System: Enabling Zero-Shot Translation
+
