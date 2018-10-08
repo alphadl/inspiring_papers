@@ -37,3 +37,6 @@
 [17] Unsupervised Cross-lingual Transfer of Word Embedding Spaces
 
 [18] An Empirical Study on Development Set Selection Strategy for Machine Translation Learning
+
+[19] Bagging-based System Combination for Domain Adaptation
+
