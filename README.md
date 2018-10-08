@@ -40,3 +40,6 @@
 
 [19] Bagging-based System Combination for Domain Adaptation
 
+[20] Cross-Sentence N-ary Relation Extraction with Graph LSTMs
+
+
