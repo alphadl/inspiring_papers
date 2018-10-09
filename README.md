@@ -48,3 +48,5 @@
 
 [23] Fine-Tuning for Neural Machine Translation with Limited Degradation across In- and Out-of-Domain Data
 
+[24] Improving Neural Machine Translation with Conditional Sequence Generative Adversarial Nets
+
