@@ -50,3 +50,4 @@
 
 [24] Improving Neural Machine Translation with Conditional Sequence Generative Adversarial Nets
 
+[25 undocumented paper] Zhirui Zhang, Shujie Liu, Mu Li, Ming Zhou and Enhong Chen, Bidirectional Generative Adversarial Networks for Neural Machine Translation, The SIGNLL Conference on Computational Natural Language Learning (CoNLL 2018).
