@@ -42,4 +42,5 @@
 
 [20] Cross-Sentence N-ary Relation Extraction with Graph LSTMs
 
+[21] Distant supervision for relation extraction without labeled data
 
