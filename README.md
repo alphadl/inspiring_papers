@@ -72,3 +72,6 @@
 
 [35] Sentence Weighting for Neural Machine Translation Domain Adaptation
 
+[36] Instance Weighting for Neural Machine Translation Domain Adaptation
+
+[37] Sentence Embedding for Neural Machine Translation Domain Adaptation
