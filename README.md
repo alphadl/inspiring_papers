@@ -64,3 +64,7 @@
 
 [31] Pre-Translation for Neural Machine Translation
 
+[33] Improving Neural Machine Translation through Phrase-based Forced Decoding 
+
+[34] Guiding Neural Machine Translation with Retrieved Translation Pieces
+
