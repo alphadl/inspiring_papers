@@ -57,3 +57,6 @@
 [27] PHRASE-BASED ATTENTIONS
 
 [28] MULTILINGUAL NEURAL MACHINE TRANSLATION WITH KNOWLEDGE DISTILLATION
+
+[29] A Smorgasbord of Features to Combine Phrase-Based and Neural Machine Translation
+
