@@ -78,3 +78,5 @@
 
 [38] Cost Weighting for Neural Machine Translation Domain Adaptation
 
+[39] Stanford Neural Machine Translation Systems for Spoken Language Domains
+
