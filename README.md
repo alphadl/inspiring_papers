@@ -83,3 +83,5 @@
 [40] Sequence to Sequence Learning with Neural Networks
 
 [41] Ensemble Distillation for Neural Machine Translation
+
+[42] Automatic Evaluation of Machine Translation Quality Using Longest Common Subsequence and Skip-Bigram Statistics
