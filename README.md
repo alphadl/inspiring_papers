@@ -85,3 +85,7 @@
 [41] Ensemble Distillation for Neural Machine Translation
 
 [42] Automatic Evaluation of Machine Translation Quality Using Longest Common Subsequence and Skip-Bigram Statistics
+
+[43] The Best Lexical Metric for Phrase-Based Statistical MT System Optimization.pdf
+
+[44] Efficient Extraction of Oracle-best Translations from Hypergraphs
