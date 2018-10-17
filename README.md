@@ -91,3 +91,7 @@
 [44] Efficient Extraction of Oracle-best Translations from Hypergraphs
 
 [45] Distilling the Knowledge in a Neural Network
+
+[46 slide] GAN and its application to NLP 
+
+[47 slide] Knowledge Distillation via GAN
