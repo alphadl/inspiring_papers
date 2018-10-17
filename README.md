@@ -89,3 +89,5 @@
 [43] The Best Lexical Metric for Phrase-Based Statistical MT System Optimization.pdf
 
 [44] Efficient Extraction of Oracle-best Translations from Hypergraphs
+
+[45] Distilling the Knowledge in a Neural Network
