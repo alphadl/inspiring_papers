@@ -109,3 +109,7 @@
 [53] Findings of the Second Shared Task on Multimodal Machine Translation and Multilingual Image Description
 
 [54] MULTILINGUAL IMAGE DESCRIPTION WITH NEURAL SEQUENCE MODELS
+
+[55] 2016WMT Multimodal translation---A Shared Task on Multimodal Machine Translation and Crosslingual Image Description
+
+[56] Show, Attend and Tell- Neural Image Caption Generation with Visual Attention
