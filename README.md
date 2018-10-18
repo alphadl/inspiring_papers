@@ -101,3 +101,5 @@
 [49] Refining Source Representations with Relation Networks for Neural Machine Translation
 
 [50] Neural Machine Translation of Rare Words with Subword Units
+
+[51] Fully Character-Level Neural Machine Translation without Explicit Segmentation
