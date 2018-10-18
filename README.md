@@ -99,3 +99,5 @@
 [48] Adversarial Generation of Natural Language
 
 [49] Refining Source Representations with Relation Networks for Neural Machine Translation
+
+[50] Neural Machine Translation of Rare Words with Subword Units
