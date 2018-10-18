@@ -115,3 +115,5 @@
 [56] Show, Attend and Tell- Neural Image Caption Generation with Visual Attention
 
 [57] Show and Tell: A Neural Image Caption Generator
+
+[58] WMT2017多模态第一名CMU 评测报告
