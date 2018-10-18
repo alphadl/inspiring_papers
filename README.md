@@ -95,3 +95,7 @@
 [46 slide] GAN and its application to NLP 
 
 [47 slide] Knowledge Distillation via GAN
+
+[48] Adversarial Generation of Natural Language
+
+[49] Refining Source Representations with Relation Networks for Neural Machine Translation
