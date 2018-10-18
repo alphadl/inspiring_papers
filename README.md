@@ -105,3 +105,5 @@
 [51] Fully Character-Level Neural Machine Translation without Explicit Segmentation
 
 [52] Improving Zero-Shot Translation of Low-Resource Languages
+
+[53] Findings of the Second Shared Task on Multimodal Machine Translation and Multilingual Image Description
