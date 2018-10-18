@@ -113,3 +113,5 @@
 [55] 2016WMT Multimodal translation---A Shared Task on Multimodal Machine Translation and Crosslingual Image Description
 
 [56] Show, Attend and Tell- Neural Image Caption Generation with Visual Attention
+
+[57] Show and Tell: A Neural Image Caption Generator
