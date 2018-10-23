@@ -117,3 +117,9 @@
 [57] Show and Tell: A Neural Image Caption Generator
 
 [58] WMT2017多模态第一名CMU 评测报告
+
+[59] PhD thesis of Raj,京都大学 低资源多语种翻译
+
+[60] Multi-Task Learning for Multiple Language Translation
+
+[61] THUMT: An Open Source Toolkit for Neural Machine Translation
