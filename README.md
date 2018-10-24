@@ -125,3 +125,5 @@
 [61] THUMT: An Open Source Toolkit for Neural Machine Translation
 
 [62] Zero-Resource Translation with Multi-Lingual Neural Machine Translation
+
+[63] Multi-Source Neural Translation
