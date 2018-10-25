@@ -135,3 +135,5 @@
 [66] Multi-Source Neural Machine Translation with Missing Data
 
 [67] A Tree-based Decoder for Neural Machine Translation
+
+[68 dynet NMT] XNMT: The eXtensible Neural Machine Translation Toolkit
