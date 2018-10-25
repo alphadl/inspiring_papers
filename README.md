@@ -137,3 +137,5 @@
 [67] A Tree-based Decoder for Neural Machine Translation
 
 [68 dynet NMT] XNMT: The eXtensible Neural Machine Translation Toolkit
+
+[69](reinforcement leanring for NMT)Sequence level training with recurrent neural networks .pdf
