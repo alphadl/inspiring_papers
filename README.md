@@ -127,3 +127,5 @@
 [62] Zero-Resource Translation with Multi-Lingual Neural Machine Translation
 
 [63] Multi-Source Neural Translation
+
+[64 Msc_thesis] Domain Adaptation for Multilingual Neural Machine Translation
