@@ -139,3 +139,5 @@
 [68 dynet NMT] XNMT: The eXtensible Neural Machine Translation Toolkit
 
 [69](reinforcement leanring for NMT)Sequence level training with recurrent neural networks .pdf
+
+[70] A Study of Reinforcement Learning for Neural Machine Translation
