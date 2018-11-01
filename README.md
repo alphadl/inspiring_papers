@@ -141,3 +141,5 @@
 [69](reinforcement leanring for NMT)Sequence level training with recurrent neural networks .pdf
 
 [70] A Study of Reinforcement Learning for Neural Machine Translation
+
+[71] Training Tips for the Transformer Model
