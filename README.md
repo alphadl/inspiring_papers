@@ -149,3 +149,5 @@
 [73] Dual Learning for Machine Translation
 
 [74] A Teacher-Student Framework for Zero-Resource Neural Machine Translation
+
+[75] Dual Transfer Learning for Neural Machine Translation with Marginal Distribution Regularization
