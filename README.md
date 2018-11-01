@@ -145,3 +145,5 @@
 [71] Training Tips for the Transformer Model
 
 [72] Bidirectional Generative Adversarial Networks for Neural Machine Translation
+
+[73] Dual Learning for Machine Translation
