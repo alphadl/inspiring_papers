@@ -151,3 +151,5 @@
 [74] A Teacher-Student Framework for Zero-Resource Neural Machine Translation
 
 [75] Dual Transfer Learning for Neural Machine Translation with Marginal Distribution Regularization
+
+[76] When and Why are Pre-trained Word Embeddings Useful for Neural Machine Translation?
