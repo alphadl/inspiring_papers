@@ -143,3 +143,5 @@
 [70] A Study of Reinforcement Learning for Neural Machine Translation
 
 [71] Training Tips for the Transformer Model
+
+[72] Bidirectional Generative Adversarial Networks for Neural Machine Translation
