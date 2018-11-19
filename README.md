@@ -163,3 +163,5 @@
 [80] You May Not Need Attention
 
 [81] An Analysis of Encoder Representations in Transformer-Based Machine Translation
+
+[82] An Introductory Survey on Attention Mechanisms in NLP Problems
