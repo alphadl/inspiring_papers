@@ -169,3 +169,5 @@
 [83] On Zero-shot Cross-lingual Transfer of Multilingual Neural Machine Translation.pdf
 
 [84] Bilingual-GAN: Neural Text Generation and Neural Machine Translation as Two Sides of the Same Coin
+
+[85] GraphSeq2Seq- Graph-Sequence-to-Sequence for Neural Machine Translation
