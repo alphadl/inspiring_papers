@@ -171,3 +171,5 @@
 [84] Bilingual-GAN: Neural Text Generation and Neural Machine Translation as Two Sides of the Same Coin
 
 [85] GraphSeq2Seq- Graph-Sequence-to-Sequence for Neural Machine Translation
+
+[86] Simplifying Neural Machine Translation with Addition-Subtraction Twin-Gated Recurrent Networks.pdf
