@@ -173,3 +173,5 @@
 [85] GraphSeq2Seq- Graph-Sequence-to-Sequence for Neural Machine Translation
 
 [86] Simplifying Neural Machine Translation with Addition-Subtraction Twin-Gated Recurrent Networks.pdf
+
+[87] Recurrent Additive Networks.pdf
