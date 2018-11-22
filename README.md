@@ -172,10 +172,12 @@
 
 [85] GraphSeq2Seq- Graph-Sequence-to-Sequence for Neural Machine Translation
 
-[86] Simplifying Neural Machine Translation with Addition-Subtraction Twin-Gated Recurrent Networks.pdf
+[86] Simplifying Neural Machine Translation with Addition-Subtraction Twin-Gated Recurrent Networks
 
-[87] Recurrent Additive Networks.pdf
+[87] Recurrent Additive Networks
 
-[88] Factored Neural Language Models.pdf
+[88] Factored Neural Language Models
 
-[89] Neural Machine Translation By Generating Multiple Linguistic Factors.pdf
+[89] Neural Machine Translation By Generating Multiple Linguistic Factors
+
+[90] Deep Architectures for Neural Machine Translation
