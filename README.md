@@ -181,3 +181,5 @@
 [89] Neural Machine Translation By Generating Multiple Linguistic Factors
 
 [90] Deep Architectures for Neural Machine Translation
+
+[91] A Context-Aware Recurrent Encoder for Neural Machine Translation
