@@ -183,3 +183,5 @@
 [90] Deep Architectures for Neural Machine Translation
 
 [91] A Context-Aware Recurrent Encoder for Neural Machine Translation
+
+[92] Regularization techniques for fine-tuning in neural machine translation
