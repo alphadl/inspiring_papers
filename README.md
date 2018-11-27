@@ -189,3 +189,5 @@
 [93] Effective Domain Mixing for Neural Machine Translation
 
 [94] Multi-Domain Neural Machine Translation with Word-Level Domain Context Discrimination
+
+[95] Towards Linear Time Neural Machine Translation with Capsule
