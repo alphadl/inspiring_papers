@@ -185,3 +185,5 @@
 [91] A Context-Aware Recurrent Encoder for Neural Machine Translation
 
 [92] Regularization techniques for fine-tuning in neural machine translation
+
+[93] Effective Domain Mixing for Neural Machine Translation.pdf
