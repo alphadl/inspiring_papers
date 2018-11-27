@@ -186,4 +186,6 @@
 
 [92] Regularization techniques for fine-tuning in neural machine translation
 
-[93] Effective Domain Mixing for Neural Machine Translation.pdf
+[93] Effective Domain Mixing for Neural Machine Translation
+
+[94] Multi-Domain Neural Machine Translation with Word-Level Domain Context Discrimination
