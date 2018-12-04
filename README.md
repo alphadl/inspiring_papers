@@ -191,3 +191,5 @@
 [94] Multi-Domain Neural Machine Translation with Word-Level Domain Context Discrimination
 
 [95] Towards Linear Time Neural Machine Translation with Capsule
+
+[96] Agreement on Target Bidirectional LSTMs for Sequence-to-Sequence Learning
