@@ -197,3 +197,5 @@
 [97] Improved Semantic Representations From Tree-Structured Long Short-Term Memory Networks
 
 [98] Does String-Based Neural MT Learn Source Syntax? 
+
+[99] Graph Convolutional Networks for Text Classification
