@@ -203,3 +203,5 @@
 [100] Incorporating Structural Alignment Biases into an Attentional Neural Translation Model
 
 [101] The Importance of Being Recurrent for Modeling Hierarchical Structure
+
+[102] An Empirical Exploration of Skip Connections for Sequential Tagging
