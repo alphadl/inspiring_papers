@@ -207,3 +207,5 @@
 [102] An Empirical Exploration of Skip Connections for Sequential Tagging
 
 [103] Incorporating Copying Mechanism in Sequence-to-Sequence Learning
+
+[104] Attention Focusing for Neural Machine Translation by Bridging Source and Target Embeddings
