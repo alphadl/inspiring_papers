@@ -213,3 +213,5 @@
 [105] Highway Networks
 
 [106] Extreme Adaptation for Personalized Neural Machine Translation
+
+[107] Improved Neural Machine Translation with a Syntax-Aware Encoder and Decoder
