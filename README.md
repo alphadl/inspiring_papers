@@ -217,3 +217,5 @@
 [107] Improved Neural Machine Translation with a Syntax-Aware Encoder and Decoder
 
 [108] Rico Sennrich NMT- what’s linguistics got to do with it?
+
+[110] A robust self-learning method for fully unsupervised cross-lingual mappings of word embeddings
