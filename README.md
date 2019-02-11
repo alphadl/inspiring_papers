@@ -220,7 +220,7 @@
 
 [110] A robust self-learning method for fully unsupervised cross-lingual mappings of word embeddings
 
-[111] UNSUPERVISED NEURAL MACHINE TRANSLATION
+[111] Unsupervised Nerual Machine Translation
 
 [112] Unsupervised Statistical Machine Translation
 
