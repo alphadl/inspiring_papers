@@ -233,3 +233,5 @@
 [116] A Tutorial on Deep Latent Variable Models of Natural Language
 
 [117] Latent Alignment and Variational Attention
+
+[118] Pervasive Attention- 2D Convolutional Neural Networks for Sequence-to-Sequence Prediction
