@@ -226,4 +226,6 @@
 
 [113] An Effective Approach to Unsupervised Machine Translation
 
+[114] lkaiser-Tensor2Tensor Transformers New Deep Models for NLP
+
 [116] A Tutorial on Deep Latent Variable Models of Natural Language
