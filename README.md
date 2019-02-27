@@ -228,4 +228,6 @@
 
 [114] lkaiser-Tensor2Tensor Transformers New Deep Models for NLP
 
+[115] Temporal dynamics of semantic relations in word embeddings- an application to predicting armed conflict participants
+
 [116] A Tutorial on Deep Latent Variable Models of Natural Language
