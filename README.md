@@ -235,3 +235,5 @@
 [117] Latent Alignment and Variational Attention
 
 [118] Pervasive Attention- 2D Convolutional Neural Networks for Sequence-to-Sequence Prediction
+
+[119] Semi-Autoregressive Neural Machine Translation
